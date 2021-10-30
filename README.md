@@ -1,3 +1,5 @@
+Автоматизированное тестирование
+https://software-testing.ru/forum/index.php?/forum/113-avtomatizirovannoe-testirovanie/
 
 Не получается в автотесте сделать клик по картинке
 https://www.cyberforum.ru/python-beginners/thread2689954.html
