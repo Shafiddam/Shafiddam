@@ -16,3 +16,5 @@ https://github.com/warumbaum/Tensor-Yandex/blob/master/yandex_script_1.py
 Работа с Selenium Web Driver
 https://forworktests.blogspot.com/2013/03/selenium-web-driver.html
 
+Поиск HTML элементов 
+https://selenium-python.com/locating-web-elements
