@@ -18,3 +18,6 @@ https://forworktests.blogspot.com/2013/03/selenium-web-driver.html
 
 Поиск HTML элементов 
 https://selenium-python.com/locating-web-elements
+
+Учебники по Django_Tkinter_...
+https://python-scripts.com/category/django-beginners
