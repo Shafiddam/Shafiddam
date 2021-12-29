@@ -1,3 +1,6 @@
+Шпаргалка по Flexbox CSS
+https://tpverstak.ru/flex-cheatsheet/
+
 My page on ru.stackoverflow.com
 https://ru.stackoverflow.com/users/478339/shafiddam
 
