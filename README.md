@@ -1,3 +1,6 @@
+My page on ru.stackoverflow.com
+https://ru.stackoverflow.com/users/478339/shafiddam
+
 Автоматизированное тестирование
 https://software-testing.ru/forum/index.php?/forum/113-avtomatizirovannoe-testirovanie/
 
