@@ -1,3 +1,6 @@
+Русский справочник по Git:
+https://git-scm.com/book/ru/v2/
+
 Шпаргалка по Flexbox CSS:
 https://tpverstak.ru/flex-cheatsheet/
 
