@@ -4,11 +4,12 @@ https://automated-testing.info/
 Русский справочник по Git:
 https://git-scm.com/book/ru/v2/
 
-Шпаргалка по Flexbox CSS:
-https://tpverstak.ru/flex-cheatsheet/
-
-Build&Test HTML+CSS:
-https://codepen.io/
+Пиши CSS-селекторы как BOSS:
+https://badcode.ru/kak-pisat-css-sieliektory-kak-boss/
+https://tpverstak.ru/flex-cheatsheet/ (Шпаргалка по Flexbox CSS)
+https://codepen.io/ (Build&Test HTML+CSS)
+https://habr.com/ru/post/250975/  (Selenium для Python. Глава 4. Поиск элементов/Хабр)
+https://selenium-python.com/locating-web-elements (Поиск HTML элементов)
 
 My page on ru.stackoverflow.com
 https://ru.stackoverflow.com/users/478339/shafiddam
@@ -22,17 +23,11 @@ https://www.cyberforum.ru/python-beginners/thread2689954.html
 Selenium WebDriver · Stepik
 https://stepik.org/lesson/138920/step/1?unit=196194
  
-Selenium для Python. Глава 4. Поиск элементов / Хабр
-https://habr.com/ru/post/250975/
- 
 Tensor-Yandex/yandex_script_1.py 
 https://github.com/warumbaum/Tensor-Yandex/blob/master/yandex_script_1.py
  
 Работа с Selenium Web Driver
 https://forworktests.blogspot.com/2013/03/selenium-web-driver.html
-
-Поиск HTML элементов 
-https://selenium-python.com/locating-web-elements
 
 Учебники по Django_Tkinter_...
 https://python-scripts.com/category/django-beginners
