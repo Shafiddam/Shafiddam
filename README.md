@@ -1,3 +1,6 @@
+Тестирование сайта с помощью Selenium Grid и Python
+https://sorokin.engineer/posts/ru/e2e_tests.html
+
 Форум специалистов автоматизации тестирования:
 https://automated-testing.info/
 
