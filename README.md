@@ -6,11 +6,11 @@ https://git-scm.com/book/ru/v2/
 
 Пиши CSS-селекторы как BOSS:
 https://badcode.ru/kak-pisat-css-sieliektory-kak-boss/
-https://www.w3schools.com/cssref/css_selectors.asp (с примерами) 
-https://tpverstak.ru/flex-cheatsheet/ (Шпаргалка по Flexbox CSS)
-https://codepen.io/ (Build&Test HTML+CSS)
-https://habr.com/ru/post/250975/  (Selenium для Python. Глава 4. Поиск элементов/Хабр)
-https://selenium-python.com/locating-web-elements (Поиск HTML элементов)
+CSS-селеторы с примерами: https://www.w3schools.com/cssref/css_selectors.asp
+Шпаргалка по Flexbox CSS: https://tpverstak.ru/flex-cheatsheet/
+Build&Test HTML+CSS = https://codepen.io/
+Selenium Поиск элементов = https://habr.com/ru/post/250975/  
+Поиск HTML элементов = https://selenium-python.com/locating-web-elements
 
 My page on ru.stackoverflow.com
 https://ru.stackoverflow.com/users/478339/shafiddam
