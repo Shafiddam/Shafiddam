@@ -15,7 +15,6 @@ https://badcode.ru/kak-pisat-css-sieliektory-kak-boss/
 
 CSS-селекторы с примерами: 
 https://www.w3schools.com/cssref/css_selectors.asp
-
 Шпаргалка по Flexbox CSS: 
 https://tpverstak.ru/flex-cheatsheet/
 
