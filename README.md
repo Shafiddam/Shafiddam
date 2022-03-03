@@ -14,13 +14,13 @@ https://git-scm.com/book/ru/v2/
 https://badcode.ru/kak-pisat-css-sieliektory-kak-boss/
 
 CSS-селекторы с примерами: 
-https://www.w3schools.com/cssref/css_selectors.asp; 
-Шпаргалка по Flexbox CSS: 
-https://tpverstak.ru/flex-cheatsheet/
-_Build&Test HTML+CSS
-https://codepen.io/
-_Selenium Поиск элементов
-https://habr.com/ru/post/250975/  
+https://www.w3schools.com/cssref/css_selectors.asp 
+ 
+Шпаргалка по Flexbox CSS:https://tpverstak.ru/flex-cheatsheet/
+
+Build&Test HTML+CSS https://codepen.io/
+
+Selenium Поиск элементов https://habr.com/ru/post/250975/  
 
 Поиск HTML элементов
 https://selenium-python.com/locating-web-elements
