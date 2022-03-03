@@ -1,20 +1,14 @@
-Настройка selenium grid
-https://prostoitblog.ru/nastrojka-selenium-grid/
+Настройка selenium grid https://prostoitblog.ru/nastrojka-selenium-grid/
 
-Тестирование сайта с помощью Selenium Grid и Python
-https://sorokin.engineer/posts/ru/e2e_tests.html
+Тестирование сайта с помощью Selenium Grid и Python https://sorokin.engineer/posts/ru/e2e_tests.html
 
-Форум специалистов автоматизации тестирования:
-https://automated-testing.info/
+Форум специалистов автоматизации тестирования: https://automated-testing.info/
 
-Русский справочник по Git:
-https://git-scm.com/book/ru/v2/
+Русский справочник по Git: https://git-scm.com/book/ru/v2/
 
-Пиши CSS-селекторы как BOSS:
-https://badcode.ru/kak-pisat-css-sieliektory-kak-boss/
+Пиши CSS-селекторы как BOSS: https://badcode.ru/kak-pisat-css-sieliektory-kak-boss/
 
-CSS-селекторы с примерами: 
-https://www.w3schools.com/cssref/css_selectors.asp 
+CSS-селекторы с примерами: https://www.w3schools.com/cssref/css_selectors.asp 
  
 Шпаргалка по Flexbox CSS: https://tpverstak.ru/flex-cheatsheet/
 
