@@ -10,8 +10,6 @@ Parallel-testing-with-selenium-grid https://www.lambdatest.com/blog/pytest-tutor
 
 Тестирование сайта с помощью Selenium Grid и Python https://sorokin.engineer/posts/ru/e2e_tests.html
 
-<br></br><br></br>
-
 # CSS
 
 Пиши CSS-селекторы как BOSS: https://badcode.ru/kak-pisat-css-sieliektory-kak-boss/
