@@ -1,7 +1,9 @@
 **Docker**
+
 Docker Selenium https://hub.docker.com/u/selenium
 
 **Selenium grid**
+
 Настройка selenium grid https://prostoitblog.ru/nastrojka-selenium-grid/
 
 Parallel-testing-with-selenium-grid https://www.lambdatest.com/blog/pytest-tutorial-parallel-testing-with-selenium-grid/
