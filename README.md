@@ -1,8 +1,8 @@
-**Docker**
+# Docker
 
 Docker Selenium https://hub.docker.com/u/selenium
 
-**Selenium grid**
+# Selenium grid
 
 Настройка selenium grid https://prostoitblog.ru/nastrojka-selenium-grid/
 
@@ -10,13 +10,9 @@ Parallel-testing-with-selenium-grid https://www.lambdatest.com/blog/pytest-tutor
 
 Тестирование сайта с помощью Selenium Grid и Python https://sorokin.engineer/posts/ru/e2e_tests.html
 
+<br></br><br></br>
 
-
-
-
-Форум специалистов автоматизации тестирования: https://automated-testing.info/
-
-Русский справочник по Git: https://git-scm.com/book/ru/v2/
+# CSS
 
 Пиши CSS-селекторы как BOSS: https://badcode.ru/kak-pisat-css-sieliektory-kak-boss/
 
@@ -29,6 +25,12 @@ Build&Test HTML+CSS https://codepen.io/
 Selenium Поиск элементов https://habr.com/ru/post/250975/  
 
 Поиск HTML элементов https://selenium-python.com/locating-web-elements
+
+Форум специалистов автоматизации тестирования: https://automated-testing.info/
+
+Русский справочник по Git: https://git-scm.com/book/ru/v2/
+<br></br><br></br>
+
 
 My page on ru.stackoverflow.com https://ru.stackoverflow.com/users/478339/shafiddam
 
