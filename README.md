@@ -45,5 +45,6 @@ Selenium WebDriver · Stepik https://stepik.org/lesson/138920/step/1?unit=196194
 
 Полезные ссылки QA https://docs.google.com/spreadsheets/d/18giT_NbYLo9yc7yArAeTMnB8W9m3EqUvwftrfZMUyWQ/edit#gid=0
 
+
 # TestRail 
 https://shafikov.testrail.io
