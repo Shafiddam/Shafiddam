@@ -48,3 +48,8 @@ Selenium WebDriver · Stepik https://stepik.org/lesson/138920/step/1?unit=196194
 
 # TestRail 
 https://shafikov.testrail.io
+
+
+# habr.com 
+https://career.habr.com
+https://freelance.habr.com/tasks
