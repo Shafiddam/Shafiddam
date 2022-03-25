@@ -50,6 +50,6 @@ Selenium WebDriver · Stepik https://stepik.org/lesson/138920/step/1?unit=196194
 https://shafikov.testrail.io
 
 
-# habr.com 
+# Habr.com 
 https://career.habr.com
 https://freelance.habr.com/tasks
