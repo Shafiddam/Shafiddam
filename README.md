@@ -1,4 +1,4 @@
-**Создание GUI-автотестов с помощью Selenium и Python в Pytest
+** Создание GUI-автотестов с помощью Selenium и Python в Pytest
 **Cоздание отчетов в Allure 
 **Параллельный запуск тестов в Selenium grid
 **Веб-разработка на фреймворке Django
