@@ -1,6 +1,3 @@
-# Postman
-https://testengineer.ru/gajd-po-testirovaniyu-v-postman/#h-postman
-
 # Docker
 
 Docker Selenium https://hub.docker.com/u/selenium
