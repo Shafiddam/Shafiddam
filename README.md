@@ -55,3 +55,5 @@ https://career.habr.com
 https://freelance.habr.com/tasks
 
 https://software-testing.ru/forum/index.php?/forum/279-nachinaiuschemu-testirovschiku/
+
+http://wiki.software-testing.ru
