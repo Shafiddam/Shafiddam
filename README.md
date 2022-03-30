@@ -1,3 +1,25 @@
+**Создание GUI-автотестов с помощью Selenium и Python в Pytest
+**Cоздание отчетов в Allure 
+**Параллельный запуск тестов в Selenium grid
+**Веб-разработка на фреймворке Django
+**Написание простых SQL-запросов
+**Английский на уровне чтения проектной документации.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Docker
 
 Docker Selenium https://hub.docker.com/u/selenium
