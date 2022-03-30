@@ -1,5 +1,9 @@
 ## Навыки:
-### - Создание GUI-автотестов с помощью Selenium и Python в Pytest: https://github.com/Shafiddam/Test_Tensor, https://github.com/Shafiddam/Test_Simbirsoft, https://github.com/Shafiddam/Test_saucedemo_com/tree/master, https://github.com/Shafiddam/Test_Page
+### - Создание GUI-автотестов с помощью Selenium и Python в Pytest: 
+- https://github.com/Shafiddam/Test_Tensor, 
+- https://github.com/Shafiddam/Test_Simbirsoft,
+- https://github.com/Shafiddam/Test_saucedemo_com/tree/master,
+- https://github.com/Shafiddam/Test_Page
 ### - Cоздание отчетов в Allure 
 ### - Параллельный запуск тестов в Selenium grid
 ### - [Веб-разработка на фреймворке Django](https://github.com/Shafiddam/DJango_02122021/tree/master)
