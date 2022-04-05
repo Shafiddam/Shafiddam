@@ -5,7 +5,10 @@
 - https://github.com/Shafiddam/Test_saucedemo_com/tree/master,
 - https://github.com/Shafiddam/Test_Page
 ### - Cоздание отчетов в Allure 
-### - Параллельный запуск тестов в Selenium grid
+### - Параллельный запуск тестов в Selenium grid  
+Пример баг-репорта: https://docs.google.com/spreadsheets/d/1k0jt2hYKQS9E3_9C4Ko4I5FbnfaCYM-g9BXU5Xmqkuo/edit?usp=sharing  
+
+
 ### - [Веб-разработка на фреймворке Django](https://github.com/Shafiddam/DJango_02122021/tree/master)
 ### - Написание простых SQL-запросов
 ### - Английский на уровне чтения проектной документации
