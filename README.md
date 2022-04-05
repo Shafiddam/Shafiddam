@@ -1,16 +1,15 @@
 ## Навыки:
-### - Создание GUI-автотестов с помощью Selenium и Python в Pytest: 
-- https://github.com/Shafiddam/Test_Tensor, 
-- https://github.com/Shafiddam/Test_Simbirsoft,
-- https://github.com/Shafiddam/Test_saucedemo_com/tree/master,
-- https://github.com/Shafiddam/Test_Page
+### - Создание UI-автотестов с помощью Selenium и Python в Pytest
+примеры: https://github.com/Shafiddam/Test_Tensor, https://github.com/Shafiddam/Test_Simbirsoft, https://github.com/Shafiddam/Test_saucedemo_com/tree/master, https://github.com/Shafiddam/Test_Page  
+### - Написание баг-репортов 
+примеры: https://docs.google.com/spreadsheets/d/1k0jt2hYKQS9E3_9C4Ko4I5FbnfaCYM-g9BXU5Xmqkuo/edit?usp=sharing  
+### - Написание тейс-кейсов   
+примеры: https://docs.google.com/spreadsheets/d/1qy55pKQf7DrazuiRT-BFP-wANKa1oRr5HX989huYzpk/edit?usp=sharing
+
 ### - Cоздание отчетов в Allure 
 ### - Параллельный запуск тестов в Selenium grid  
-Пример баг-репорта: https://docs.google.com/spreadsheets/d/1k0jt2hYKQS9E3_9C4Ko4I5FbnfaCYM-g9BXU5Xmqkuo/edit?usp=sharing  
-
-
 ### - [Веб-разработка на фреймворке Django](https://github.com/Shafiddam/DJango_02122021/tree/master)
-### - Написание простых SQL-запросов
+### - [Написание простых SQL-запросов](https://github.com/Shafiddam/SQL)  
 ### - Английский на уровне чтения проектной документации
 <br>
 
