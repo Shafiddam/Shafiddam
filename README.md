@@ -1,7 +1,8 @@
 ## Навыки:
 ### - Создание UI-автотестов с помощью Selenium WebDriver и Python/Pytest
 https://github.com/Shafiddam/Test_Tensor, https://github.com/Shafiddam/Test_Simbirsoft, https://github.com/Shafiddam/Test_saucedemo_com/tree/master, https://github.com/Shafiddam/Test_Page  
-### - Написание баг-репортов 
+### - Написание баг-репортов  
+https://shafikov.atlassian.net/jira/software/c/projects/KZNRU/issues
 https://docs.google.com/spreadsheets/d/1k0jt2hYKQS9E3_9C4Ko4I5FbnfaCYM-g9BXU5Xmqkuo/edit?usp=sharing  
 ### - Написание тейс-кейсов   
 https://docs.google.com/spreadsheets/d/1qy55pKQf7DrazuiRT-BFP-wANKa1oRr5HX989huYzpk/edit?usp=sharing
