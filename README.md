@@ -2,8 +2,14 @@
 ### - Создание UI-автотестов с помощью Selenium WebDriver и Python/Pytest
 https://github.com/Shafiddam/Test_Tensor, https://github.com/Shafiddam/Test_Simbirsoft, https://github.com/Shafiddam/Test_saucedemo_com/tree/master, https://github.com/Shafiddam/Test_Page  
 ### - Написание баг-репортов  
-https://shafikov.atlassian.net/jira/software/c/projects/KZNRU/issues
+Баги на сайте Jira Software: https://shafikov.atlassian.net/jira/software/c/projects/JIRA/issues  
+Баги на сайте бренда Sokolov Jewelry: https://shafikov.atlassian.net/jira/software/c/projects/SOKOLOVRU/issues  
+Баги на сайте мэрии г.Казань: https://shafikov.atlassian.net/jira/software/c/projects/KZNRU/issues  
+Баги на сайте казанского филиала ВГУЮ: https://shafikov.atlassian.net/jira/software/c/projects/KZNRPAMURU/issues  
+
+
 https://docs.google.com/spreadsheets/d/1k0jt2hYKQS9E3_9C4Ko4I5FbnfaCYM-g9BXU5Xmqkuo/edit?usp=sharing  
+
 ### - Написание тейс-кейсов   
 https://docs.google.com/spreadsheets/d/1qy55pKQf7DrazuiRT-BFP-wANKa1oRr5HX989huYzpk/edit?usp=sharing
 
