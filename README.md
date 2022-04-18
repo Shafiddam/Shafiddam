@@ -7,6 +7,10 @@ https://github.com/Shafiddam/Test_Tensor, https://github.com/Shafiddam/Test_Simb
 Баги на сайте hh.ru: https://shafikov.atlassian.net/jira/software/c/projects/HHRU/issues  
 Баги на сайте Альфа-банка: https://shafikov.atlassian.net/jira/software/c/projects/ALFABANKRU/issues  
 Баги на сайте АкБарс-банка: https://shafikov.atlassian.net/jira/software/c/projects/AKBARS/issues  
+Баги на сайте Интернет-магазина портретов flip-flop.ru: https://shafikov.atlassian.net/jira/software/c/projects/FLIPFLOPRU/issues  
+Баги на сайте Интернет-магазина белья basex.shop: https://shafikov.atlassian.net/jira/software/c/projects/BASEXSHOP/issues  
+Баги на сайте Интернет-магазина электронных сигарет kazan.smoking-shop.store: https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues    
+Баги на сайте компании company.wego.com: https://shafikov.atlassian.net/jira/software/c/projects/WEGOCOM/issues  
 Баги на сайте ювелирной компании Sokolov Jewelry: https://shafikov.atlassian.net/jira/software/c/projects/SOKOLOVRU/issues  
 Баги на сайте мэрии г.Казань: https://shafikov.atlassian.net/jira/software/c/projects/KZNRU/issues  
 
