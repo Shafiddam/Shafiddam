@@ -3,16 +3,17 @@
 https://github.com/Shafiddam/Test_Tensor, https://github.com/Shafiddam/Test_Simbirsoft, https://github.com/Shafiddam/Test_saucedemo_com/tree/master, https://github.com/Shafiddam/Test_Page  
 ### - Написание баг-репортов:  
 Баги интернет-магазина "Смокинг - электронные сигареты"(kazan.smoking-shop.store)  https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues/?filter=allissues  
-Баги на сайте Jira Software: https://shafikov.atlassian.net/jira/software/c/projects/JIRA/issues  
-Баги на сайте hh.ru: https://shafikov.atlassian.net/jira/software/c/projects/HHRU/issues  
-Баги на сайте Альфа-банка: https://shafikov.atlassian.net/jira/software/c/projects/ALFABANKRU/issues  
-Баги на сайте АкБарс-банка: https://shafikov.atlassian.net/jira/software/c/projects/AKBARS/issues  
-Баги на сайте Интернет-магазина портретов flip-flop.ru: https://shafikov.atlassian.net/jira/software/c/projects/FLIPFLOPRU/issues  
-Баги на сайте Интернет-магазина белья basex.shop: https://shafikov.atlassian.net/jira/software/c/projects/BASEXSHOP/issues  
-Баги на сайте Интернет-магазина электронных сигарет kazan.smoking-shop.store: https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues    
-Баги на сайте компании company.wego.com: https://shafikov.atlassian.net/jira/software/c/projects/WEGOCOM/issues  
-Баги на сайте ювелирной компании Sokolov Jewelry: https://shafikov.atlassian.net/jira/software/c/projects/SOKOLOVRU/issues  
-Баги на сайте мэрии г.Казань: https://shafikov.atlassian.net/jira/software/c/projects/KZNRU/issues  
+Баги Jira Software: https://shafikov.atlassian.net/jira/software/c/projects/JIRA/issues  
+Баги hh.ru: https://shafikov.atlassian.net/jira/software/c/projects/HHRU/issues  
+Баги Альфа-банка: https://shafikov.atlassian.net/jira/software/c/projects/ALFABANKRU/issues  
+Баги АкБарс-банка: https://shafikov.atlassian.net/jira/software/c/projects/AKBARS/issues  
+Баги Интернет-магазина портретов flip-flop.ru: https://shafikov.atlassian.net/jira/software/c/projects/FLIPFLOPRU/issues  
+Баги Интернет-магазина белья basex.shop: https://shafikov.atlassian.net/jira/software/c/projects/BASEXSHOP/issues  
+Баги Интернет-магазина электронных сигарет kazan.smoking-shop.store: https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues  
+Баги Интернет-магазина agrodom.com: https://shafikov.atlassian.net/jira/software/c/projects/AGRODOMCOM/issues
+Баги компании company.wego.com: https://shafikov.atlassian.net/jira/software/c/projects/WEGOCOM/issues  
+Баги ювелирной компании Sokolov Jewelry: https://shafikov.atlassian.net/jira/software/c/projects/SOKOLOVRU/issues  
+Баги мэрии г.Казань: https://shafikov.atlassian.net/jira/software/c/projects/KZNRU/issues  
 
 
 https://docs.google.com/spreadsheets/d/1k0jt2hYKQS9E3_9C4Ko4I5FbnfaCYM-g9BXU5Xmqkuo/edit?usp=sharing  
