@@ -1,9 +1,12 @@
 ## Навыки:
 ### - Написание UI-автотестов с помощью Selenium WebDriver и Python/Pytest:
-https://github.com/Shafiddam/Test_Tensor, https://github.com/Shafiddam/Test_Simbirsoft, https://github.com/Shafiddam/Test_saucedemo_com/tree/master, https://github.com/Shafiddam/Test_Page  
-### - Написание баг-репортов:  
-Баги интернет-магазина "Смокинг - электронные сигареты"(kazan.smoking-shop.store)  https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues/?filter=allissues  
-Баги Jira Software: https://docs.google.com/spreadsheets/d/1UvP-MX1ECVWf59k6ymVdvnIsNggZSLwpbr9TYwdv9Ps/edit?usp=sharing https://shafikov.atlassian.net/jira/software/c/projects/JIRA/issues  
+1) https://github.com/Shafiddam/Test_Tensor  
+2) https://github.com/Shafiddam/Test_Simbirsoft  
+3) https://github.com/Shafiddam/Test_saucedemo_com/tree/master  
+4) https://github.com/Shafiddam/Test_Page  
+### - Примеры баг-репортов:  
+
+Jira Software: https://docs.google.com/spreadsheets/d/1UvP-MX1ECVWf59k6ymVdvnIsNggZSLwpbr9TYwdv9Ps/edit?usp=sharing (проект в Jira https://shafikov.atlassian.net/jira/software/c/projects/JIRA/issues)  
 Баги hh.ru: https://shafikov.atlassian.net/jira/software/c/projects/HHRU/issues  
 Баги Альфа-банка: https://shafikov.atlassian.net/jira/software/c/projects/ALFABANKRU/issues  
 Баги АкБарс-банка: https://shafikov.atlassian.net/jira/software/c/projects/AKBARS/issues  
@@ -14,7 +17,7 @@ https://github.com/Shafiddam/Test_Tensor, https://github.com/Shafiddam/Test_Simb
 Баги компании company.wego.com: https://shafikov.atlassian.net/jira/software/c/projects/WEGOCOM/issues  
 Баги ювелирной компании Sokolov Jewelry: https://shafikov.atlassian.net/jira/software/c/projects/SOKOLOVRU/issues  
 Баги мэрии г.Казань: https://shafikov.atlassian.net/jira/software/c/projects/KZNRU/issues  
-
+Интернет-магазин "Смокинг - электронные сигареты"(kazan.smoking-shop.store)  https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues/?filter=allissues  
 
 https://docs.google.com/spreadsheets/d/1k0jt2hYKQS9E3_9C4Ko4I5FbnfaCYM-g9BXU5Xmqkuo/edit?usp=sharing  
 
