@@ -3,7 +3,7 @@
 https://github.com/Shafiddam/Test_Tensor, https://github.com/Shafiddam/Test_Simbirsoft, https://github.com/Shafiddam/Test_saucedemo_com/tree/master, https://github.com/Shafiddam/Test_Page  
 ### - Написание баг-репортов:  
 Баги интернет-магазина "Смокинг - электронные сигареты"(kazan.smoking-shop.store)  https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues/?filter=allissues  
-Баги Jira Software: https://shafikov.atlassian.net/jira/software/c/projects/JIRA/issues  
+Баги Jira Software: https://docs.google.com/spreadsheets/d/1UvP-MX1ECVWf59k6ymVdvnIsNggZSLwpbr9TYwdv9Ps/edit?usp=sharing https://shafikov.atlassian.net/jira/software/c/projects/JIRA/issues  
 Баги hh.ru: https://shafikov.atlassian.net/jira/software/c/projects/HHRU/issues  
 Баги Альфа-банка: https://shafikov.atlassian.net/jira/software/c/projects/ALFABANKRU/issues  
 Баги АкБарс-банка: https://shafikov.atlassian.net/jira/software/c/projects/AKBARS/issues  
