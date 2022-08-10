@@ -10,8 +10,11 @@
 2) Сайт hh.ru: https://docs.google.com/spreadsheets/d/1-OCgRpbt08lfB_lu5_BCAMeQQGxN4M-lbVahNkWEU9E/edit#gid=0 
 3) Приложение Paint3D: https://docs.google.com/spreadsheets/d/1Dxf1Tu4Am0LY8MkH-oCbETAeZ03pT0UFltv7N9OJzwI/edit#gid=0  
 4) Сайт банка "Альфа-банк": https://docs.google.com/spreadsheets/d/160GGhJoOSa_Xre29Ix8u7vSOjBjdp6VYCSpAmO_xqG0/edit?usp=sharing 
-Баги АкБарс-банка: https://shafikov.atlassian.net/jira/software/c/projects/AKBARS/issues  
-Баги Интернет-магазина портретов flip-flop.ru: https://shafikov.atlassian.net/jira/software/c/projects/FLIPFLOPRU/issues  
+5) Сайт компании company.wego.com: https://docs.google.com/spreadsheets/d/1C6y9jR1YZ_Q0Fn4ctf470PdoPy9jf3nirtfuzLcZqqQ/edit#gid=0  
+6) Интернет-магазин портретов flip-flop.ru: https://docs.google.com/spreadsheets/d/1l_JWCbzhv0ZpI3ZtpmkvBge-k539LUEMDnNAK1DHh_Q/edit?usp=sharing  
+
+
+
 Баги Интернет-магазина белья basex.shop: https://shafikov.atlassian.net/jira/software/c/projects/BASEXSHOP/issues  
 Баги Интернет-магазина электронных сигарет kazan.smoking-shop.store: https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues  
 Баги Интернет-магазина agrodom.com: https://shafikov.atlassian.net/jira/software/c/projects/AGRODOMCOM/issues
