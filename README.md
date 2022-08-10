@@ -6,9 +6,10 @@
 4) https://github.com/Shafiddam/Test_Page  
 ### - Примеры баг-репортов:  
 
-Jira Software: https://docs.google.com/spreadsheets/d/1UvP-MX1ECVWf59k6ymVdvnIsNggZSLwpbr9TYwdv9Ps/edit?usp=sharing (проект в Jira https://shafikov.atlassian.net/jira/software/c/projects/JIRA/issues)  
-Баги hh.ru: https://shafikov.atlassian.net/jira/software/c/projects/HHRU/issues  
-Баги Альфа-банка: https://shafikov.atlassian.net/jira/software/c/projects/ALFABANKRU/issues  
+1) Jira Software: https://docs.google.com/spreadsheets/d/1UvP-MX1ECVWf59k6ymVdvnIsNggZSLwpbr9TYwdv9Ps/edit?usp=sharing (проект в Jira https://shafikov.atlassian.net/jira/software/c/projects/JIRA/issues)  
+2) Сайт hh.ru: https://docs.google.com/spreadsheets/d/1-OCgRpbt08lfB_lu5_BCAMeQQGxN4M-lbVahNkWEU9E/edit#gid=0 
+3) Приложение Paint3D: https://docs.google.com/spreadsheets/d/1Dxf1Tu4Am0LY8MkH-oCbETAeZ03pT0UFltv7N9OJzwI/edit#gid=0  
+4) Сайт банка "Альфа-банк": https://docs.google.com/spreadsheets/d/160GGhJoOSa_Xre29Ix8u7vSOjBjdp6VYCSpAmO_xqG0/edit?usp=sharing 
 Баги АкБарс-банка: https://shafikov.atlassian.net/jira/software/c/projects/AKBARS/issues  
 Баги Интернет-магазина портретов flip-flop.ru: https://shafikov.atlassian.net/jira/software/c/projects/FLIPFLOPRU/issues  
 Баги Интернет-магазина белья basex.shop: https://shafikov.atlassian.net/jira/software/c/projects/BASEXSHOP/issues  
