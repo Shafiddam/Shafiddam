@@ -6,16 +6,15 @@
 4) https://github.com/Shafiddam/Test_Page  
 
 ### Мануальное тестирование (примеры баг-репортов):  
-1) Jira Software: https://docs.google.com/spreadsheets/d/1UvP-MX1ECVWf59k6ymVdvnIsNggZSLwpbr9TYwdv9Ps/edit?usp=sharing (проект в Jira https://shafikov.atlassian.net/jira/software/c/projects/JIRA/issues)  
-2) Сайт hh.ru: https://docs.google.com/spreadsheets/d/1-OCgRpbt08lfB_lu5_BCAMeQQGxN4M-lbVahNkWEU9E/edit#gid=0 
-3) Приложение Paint3D: https://docs.google.com/spreadsheets/d/1Dxf1Tu4Am0LY8MkH-oCbETAeZ03pT0UFltv7N9OJzwI/edit#gid=0  
-4) Сайт банка "Альфа-банк": https://docs.google.com/spreadsheets/d/160GGhJoOSa_Xre29Ix8u7vSOjBjdp6VYCSpAmO_xqG0/edit?usp=sharing 
-5) Сайт компании company.wego.com: https://docs.google.com/spreadsheets/d/1C6y9jR1YZ_Q0Fn4ctf470PdoPy9jf3nirtfuzLcZqqQ/edit#gid=0  
-6) Интернет-магазин портретов flip-flop.ru: https://docs.google.com/spreadsheets/d/1l_JWCbzhv0ZpI3ZtpmkvBge-k539LUEMDnNAK1DHh_Q/edit?usp=sharing  
-
-Баги Интернет-магазина белья basex.shop: https://shafikov.atlassian.net/jira/software/c/projects/BASEXSHOP/issues  
-Баги Интернет-магазина электронных сигарет kazan.smoking-shop.store: https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues  
-Баги Интернет-магазина agrodom.com: https://shafikov.atlassian.net/jira/software/c/projects/AGRODOMCOM/issues
+1) проект "Jira Software": https://docs.google.com/spreadsheets/d/1UvP-MX1ECVWf59k6ymVdvnIsNggZSLwpbr9TYwdv9Ps/edit?usp=sharing (проект в Jira https://shafikov.atlassian.net/jira/software/c/projects/JIRA/issues)  
+2) сайт "hh.ru": https://docs.google.com/spreadsheets/d/1-OCgRpbt08lfB_lu5_BCAMeQQGxN4M-lbVahNkWEU9E/edit#gid=0 
+3) приложение "Paint3D": https://docs.google.com/spreadsheets/d/1Dxf1Tu4Am0LY8MkH-oCbETAeZ03pT0UFltv7N9OJzwI/edit#gid=0  
+4) сайт банка "Альфа-банк": https://docs.google.com/spreadsheets/d/160GGhJoOSa_Xre29Ix8u7vSOjBjdp6VYCSpAmO_xqG0/edit?usp=sharing 
+5) сайт компании "company.wego.com": https://docs.google.com/spreadsheets/d/1C6y9jR1YZ_Q0Fn4ctf470PdoPy9jf3nirtfuzLcZqqQ/edit#gid=0  
+6) интернет-магазин портретов "flip-flop.ru": https://docs.google.com/spreadsheets/d/1l_JWCbzhv0ZpI3ZtpmkvBge-k539LUEMDnNAK1DHh_Q/edit?usp=sharing  
+7) интернет-магазин белья "basex.shop": https://docs.google.com/spreadsheets/d/1ZUwuejddq50MpNSqUehego2dfU2AXf7aGFEO94P2VfU/edit?usp=sharing (https://shafikov.atlassian.net/jira/software/c/projects/BASEXSHOP/issues)  
+8) интернет-магазин электронных сигарет kazan.smoking-shop.store: https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues  
+9) итернет-магазин "agrodom.com": https://shafikov.atlassian.net/jira/software/c/projects/AGRODOMCOM/issues
 Баги компании company.wego.com: https://shafikov.atlassian.net/jira/software/c/projects/WEGOCOM/issues  
 Баги ювелирной компании Sokolov Jewelry: https://shafikov.atlassian.net/jira/software/c/projects/SOKOLOVRU/issues  
 Баги мэрии г.Казань: https://shafikov.atlassian.net/jira/software/c/projects/KZNRU/issues  
