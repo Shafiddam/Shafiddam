@@ -1,4 +1,4 @@
-## Навыки:
+## ПОРТФОЛИО:
 ### - Написание UI-автотестов с помощью Selenium WebDriver и Python/Pytest:
 1) https://github.com/Shafiddam/Test_Tensor  
 2) https://github.com/Shafiddam/Test_Simbirsoft  
