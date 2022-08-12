@@ -15,8 +15,8 @@
 7) интернет-магазин белья "basex.shop": https://docs.google.com/spreadsheets/d/1ZUwuejddq50MpNSqUehego2dfU2AXf7aGFEO94P2VfU/edit?usp=sharing (https://shafikov.atlassian.net/jira/software/c/projects/BASEXSHOP/issues)  
 8) интернет-магазин электронных сигарет kazan.smoking-shop.store: https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues  
 9) интернет-магазин "agrodom.com": https://docs.google.com/spreadsheets/d/1juK4I_KLDnAU_9pZ56-xloL1XepqjD2Ed0gH_a7grRQ/edit?usp=sharing (https://shafikov.atlassian.net/jira/software/c/projects/AGRODOMCOM/issues)  
-Баги компании company.wego.com: https://shafikov.atlassian.net/jira/software/c/projects/WEGOCOM/issues  
-Баги ювелирной компании Sokolov Jewelry: https://shafikov.atlassian.net/jira/software/c/projects/SOKOLOVRU/issues  
+
+Баги ювелирной компании Sokolov Jewelry: https://docs.google.com/spreadsheets/d/1zYtNmuPRfHHmdFkpXZITQU4wEZQ1kUkMScEBFeSo3FM/edit?usp=sharing (https://shafikov.atlassian.net/jira/software/c/projects/SOKOLOVRU/issues)  
 Баги мэрии г.Казань: https://shafikov.atlassian.net/jira/software/c/projects/KZNRU/issues  
 Интернет-магазин "Смокинг - электронные сигареты"(kazan.smoking-shop.store)  https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues/?filter=allissues  
 
