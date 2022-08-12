@@ -1,10 +1,10 @@
 ## ПОРТФОЛИО:
-### - Написание UI-автотестов с помощью Selenium WebDriver и Python/Pytest:
+### UI-автотесты (Selenium WebDriver + Python/Pytest):
 1) https://github.com/Shafiddam/Test_Tensor  
 2) https://github.com/Shafiddam/Test_Simbirsoft  
 3) https://github.com/Shafiddam/Test_saucedemo_com/tree/master  
 4) https://github.com/Shafiddam/Test_Page  
-### - Примеры баг-репортов:  
+### Примеры баг-репортов:  
 
 1) Jira Software: https://docs.google.com/spreadsheets/d/1UvP-MX1ECVWf59k6ymVdvnIsNggZSLwpbr9TYwdv9Ps/edit?usp=sharing (проект в Jira https://shafikov.atlassian.net/jira/software/c/projects/JIRA/issues)  
 2) Сайт hh.ru: https://docs.google.com/spreadsheets/d/1-OCgRpbt08lfB_lu5_BCAMeQQGxN4M-lbVahNkWEU9E/edit#gid=0 
@@ -25,14 +25,14 @@
 
 https://docs.google.com/spreadsheets/d/1k0jt2hYKQS9E3_9C4Ko4I5FbnfaCYM-g9BXU5Xmqkuo/edit?usp=sharing  
 
-### - Написание тейс-кейсов   
+### Тест-кейсы  
 https://docs.google.com/spreadsheets/d/1qy55pKQf7DrazuiRT-BFP-wANKa1oRr5HX989huYzpk/edit?usp=sharing
-
-### - Cоздание отчетов в Allure 
-### - Параллельный запуск тестов в Selenium grid  
-### - [Веб-разработка на фреймворке Django](https://github.com/Shafiddam/DJango_02122021/tree/master)
-### - [Написание простых SQL-запросов](https://github.com/Shafiddam/SQL)  
-### - Английский на уровне чтения проектной документации
+______________________________________________________________________________________________________
+### Cоздание отчетов в Allure
+### Параллельный запуск тестов в Selenium grid
+### [Веб-разработка на фреймворке Django](https://github.com/Shafiddam/DJango_02122021/tree/master)
+### [Написание простых SQL-запросов](https://github.com/Shafiddam/SQL)  
+### Английский на уровне чтения проектной документации
 <br>
 
 ## Сертификаты:
