@@ -35,5 +35,5 @@ Cоздание отчетов в Allure
 [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/certificate/cb0e54a96a42de8b5bbff52bb16e65fd0af5701b.pdf)  
 [Тестирование ПО: подготовка к сертификации ISTQB Foundation](https://stepik.org/cert/1027568)  
 
-### Знаком с JIRA, TestRail, Postman, английский на уровне чтения проектной документации  
+### Знаком с JIRA, TestRail, Postman, Django; английский на уровне чтения проектной документации  
 
