@@ -17,10 +17,8 @@
 9) интернет-магазин "agrodom.com": https://docs.google.com/spreadsheets/d/1juK4I_KLDnAU_9pZ56-xloL1XepqjD2Ed0gH_a7grRQ/edit?usp=sharing (https://shafikov.atlassian.net/jira/software/c/projects/AGRODOMCOM/issues)  
 10) Ювелирная компания Sokolov Jewelry: https://docs.google.com/spreadsheets/d/1zYtNmuPRfHHmdFkpXZITQU4wEZQ1kUkMScEBFeSo3FM/edit?usp=sharing (https://shafikov.atlassian.net/jira/software/c/projects/SOKOLOVRU/issues)  
 11) мэрия г.Казань: https://docs.google.com/spreadsheets/d/1dgPwlemhzGK7hwwWOmyZvfTwNE6a0MCV1ZAJe0mLzmw/edit?usp=sharing (https://shafikov.atlassian.net/jira/software/c/projects/KZNRU/issues)  
-Интернет-магазин "Смокинг - электронные сигареты"(kazan.smoking-shop.store)  https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues/?filter=allissues  
-
-https://docs.google.com/spreadsheets/d/1k0jt2hYKQS9E3_9C4Ko4I5FbnfaCYM-g9BXU5Xmqkuo/edit?usp=sharing  
-
+12) игра "WoT": https://docs.google.com/spreadsheets/d/1k0jt2hYKQS9E3_9C4Ko4I5FbnfaCYM-g9BXU5Xmqkuo/edit?usp=sharing  
+13) Интернет-магазин "Смокинг - электронные сигареты"(kazan.smoking-shop.store)  https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues/?filter=allissues  
 ### Тест-кейсы  
 https://docs.google.com/spreadsheets/d/1qy55pKQf7DrazuiRT-BFP-wANKa1oRr5HX989huYzpk/edit?usp=sharing
 ### Навыки:
