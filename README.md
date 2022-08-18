@@ -19,10 +19,10 @@
 11) мэрия г.Казань: https://docs.google.com/spreadsheets/d/1dgPwlemhzGK7hwwWOmyZvfTwNE6a0MCV1ZAJe0mLzmw/edit?usp=sharing (https://shafikov.atlassian.net/jira/software/c/projects/KZNRU/issues)  
 12) игра "WoT": https://docs.google.com/spreadsheets/d/1k0jt2hYKQS9E3_9C4Ko4I5FbnfaCYM-g9BXU5Xmqkuo/edit?usp=sharing  
 13) Интернет-магазин "Смокинг - электронные сигареты"(kazan.smoking-shop.store): https://docs.google.com/spreadsheets/d/1dgPwlemhzGK7hwwWOmyZvfTwNE6a0MCV1ZAJe0mLzmw/edit?usp=sharing (https://shafikov.atlassian.net/jira/software/c/projects/KSSS/issues/?filter=allissues)  
-14) Сайт покупки и продажа цифровых активов cryptomus.com: https://docs.google.com/spreadsheets/d/1qlJMoE43QnzFFE3UWYPudh8Q_UvAHgexlAVLVNmuBuU/edit?usp=sharing
+14) Сайт покупки и продажи цифровых активов cryptomus.com: https://docs.google.com/spreadsheets/d/1qlJMoE43QnzFFE3UWYPudh8Q_UvAHgexlAVLVNmuBuU/edit?usp=sharing
 ### Тест-кейсы  
 1) Сайт института kzn.rpa-mu.ru: https://docs.google.com/spreadsheets/d/1qy55pKQf7DrazuiRT-BFP-wANKa1oRr5HX989huYzpk/edit?usp=sharing  
-2) Сайт покупки и продажа цифровых активов cryptomus.com: https://docs.google.com/spreadsheets/d/1ayWEF_B5lM_M8CXAZyegnAULzTBjArCihQl9OZTguRM/edit?usp=sharing  
+2) Сайт покупки и продажи цифровых активов cryptomus.com: https://docs.google.com/spreadsheets/d/1ayWEF_B5lM_M8CXAZyegnAULzTBjArCihQl9OZTguRM/edit?usp=sharing  
 ### Навыки:
 Cоздание отчетов в Allure  
 Параллельный запуск тестов в Selenium grid  
