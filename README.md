@@ -22,7 +22,7 @@
 14) Сайт покупки и продажи цифровых активов cryptomus.com: рабочий проект, в закрытом доступе
 ### Тест-кейсы  
 1) Сайт института kzn.rpa-mu.ru: https://docs.google.com/spreadsheets/d/1qy55pKQf7DrazuiRT-BFP-wANKa1oRr5HX989huYzpk/edit?usp=sharing  
-2) Сайт покупки и продажи цифровых активов cryptomus.com: https://docs.google.com/spreadsheets/d/1ayWEF_B5lM_M8CXAZyegnAULzTBjArCihQl9OZTguRM/edit?usp=sharing  
+2) Сайт покупки и продажи цифровых активов cryptomus.com: рабочий проект, в закрытом доступе
 ### Навыки:
 Cоздание отчетов в Allure  
 Параллельный запуск тестов в Selenium grid  
