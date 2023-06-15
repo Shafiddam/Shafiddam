@@ -38,5 +38,5 @@ Cоздание отчетов в Allure
 [Тестирование ПО. Уровень 1](https://gb.ru/certificates/1960159)  
 [Основы тестирования](https://gb.ru/certificates/1959189)  
 
-### Работал в JIRA, Confluence, Test-IT, TestRail, Postman, Django; английский на уровне чтения проектной документации  
+### Работаю в Jira, Confluence, Test-IT, TestRail, Postman, Django; английский на уровне чтения проектной документации  
 
