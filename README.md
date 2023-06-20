@@ -26,7 +26,7 @@
 1) Сайт института kzn.rpa-mu.ru: https://docs.google.com/spreadsheets/d/1qy55pKQf7DrazuiRT-BFP-wANKa1oRr5HX989huYzpk/edit?usp=sharing  
 2) Сайт покупки и продажи цифровых активов cryptomus.com: рабочий проект, в закрытом доступе
 ### Навыки:
-Cоздание отчетов в Allure  
+Генерация отчетов тестирования в Allure  
 Параллельный запуск тестов в Selenium grid  
 [Веб-разработка на фреймворке Django](https://github.com/Shafiddam/DJango_02122021/tree/master)  
 [Написание простых SQL-запросов](https://github.com/Shafiddam/SQL)  
