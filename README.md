@@ -2,10 +2,8 @@
 В данный момент пишу автотесты UI (большей частью) на Python/pytest, контролирую тестовое покрытие, настраиваю инфраструктуру для запуска автотестов, пишу тестовую документацию (тест-кейсы, чек-листы), ищу баги и вношу их в баг-трекер и контролирую их исправления. Каждые 2 недели релизы, провожу регрессионное тестирование.
 ### UI-автотесты (Selenium WebDriver + Python/Pytest):
 1) https://github.com/Shafiddam/Cryptomus-Landing
-2) https://github.com/Shafiddam/Test_Tensor  
-3) https://github.com/Shafiddam/Test_Simbirsoft  
-4) https://github.com/Shafiddam/Test_saucedemo_com/tree/master  
-5) https://github.com/Shafiddam/Test_Page  
+2) https://github.com/Shafiddam/Test_saucedemo_com/tree/master  
+3) https://github.com/Shafiddam/Test_Page  
 
 ### Мануальное тестирование (примеры баг-репортов):  
 1) проект "Jira Software": https://docs.google.com/spreadsheets/d/1UvP-MX1ECVWf59k6ymVdvnIsNggZSLwpbr9TYwdv9Ps/edit?usp=sharing (проект в Jira https://shafikov.atlassian.net/jira/software/c/projects/JIRA/issues)  
