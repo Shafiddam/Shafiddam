@@ -42,5 +42,5 @@
 [Тестирование ПО. Уровень 1](https://gb.ru/certificates/1960159)  
 [Основы тестирования](https://gb.ru/certificates/1959189)  
 
-### Работаю в Pycharm + pytest, трекер Jira, документация Confluence, кейсы Test-IT, TestRail, запросы API Postman, пару месяцев изучал Django; английский на уровне чтения технической документации  
+### Работаю в Pycharm/python/pytest/Selenium/request, трекер Jira, документация Confluence, кейсы Test-IT, TestRail; английский на уровне чтения технической документации  
 
