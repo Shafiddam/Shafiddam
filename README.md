@@ -1,14 +1,10 @@
 ## ПОРТФОЛИО:
 Пишу новые автотесты GUI и API на Python/Pytest/Selenium/Request, оптимизирую существующие, контролирую тестовое покрытие, настраиваю инфраструктуру для запуска автотестов, пишу тестовую документацию (тест-кейсы, чек-листы), ищу баги, вношу их в баг-трекер и контролирую их исправления. Сопровождаю релизы, провожу регрессионное тестирование.
-### UI-автотесты (Python/pytest/Selenium/request):
-1) https://github.com/Shafiddam/Cryptomus
-2) -
-3) -
-4) -
-5) -
-6) https://github.com/Shafiddam/Cryptomus-Doc
-7) https://github.com/Shafiddam/Test_saucedemo_com/tree/master  
-8) https://github.com/Shafiddam/Test_Page  
+### UI-автотесты (Python/pytest/Selenium):
+https://github.com/Shafiddam/Cryptomus
+https://github.com/Shafiddam/Cryptomus-Doc
+https://github.com/Shafiddam/Test_saucedemo_com/tree/master  
+https://github.com/Shafiddam/Test_Page  
 
 ### Мануальное тестирование (примеры баг-репортов):  
 1) проект "Jira Software": https://docs.google.com/spreadsheets/d/1UvP-MX1ECVWf59k6ymVdvnIsNggZSLwpbr9TYwdv9Ps/edit?usp=sharing (проект в Jira https://shafikov.atlassian.net/jira/software/c/projects/JIRA/issues)  
