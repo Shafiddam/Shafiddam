@@ -1,6 +1,6 @@
 ## ПОРТФОЛИО:
 Пишу новые автотесты GUI и API на Python/Pytest/Selenium/Request, оптимизирую существующие, контролирую тестовое покрытие, настраиваю инфраструктуру для запуска автотестов, пишу тестовую документацию (тест-кейсы, чек-листы), ищу баги, вношу их в баг-трекер и контролирую их исправления. Сопровождаю релизы, провожу регрессионное тестирование.
-### UI-автотесты (Python/pytest/Selenium):
+### Фронт и бэк-автотесты (Python/pytest/Selenium/requests):
 - https://github.com/Shafiddam/Cryptomus
 - https://github.com/Shafiddam/Cryptomus-Doc
 - https://github.com/Shafiddam/API
