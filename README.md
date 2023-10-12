@@ -3,6 +3,7 @@
 ### UI-автотесты (Python/pytest/Selenium):
 - https://github.com/Shafiddam/Cryptomus
 - https://github.com/Shafiddam/Cryptomus-Doc
+- https://github.com/Shafiddam/API
 - https://github.com/Shafiddam/Test_saucedemo_com/tree/master
 - https://github.com/Shafiddam/Test_Page  
 
