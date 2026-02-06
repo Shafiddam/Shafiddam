@@ -16,5 +16,5 @@
 [Тестирование ПО. Уровень 1](https://gb.ru/certificates/1960159)  
 [Основы тестирования](https://gb.ru/certificates/1959189)  
 
-### Работаю в Pycharm/python/pytest/Selenium/request, трекер Jira, документация Confluence
+
 
